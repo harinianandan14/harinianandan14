@@ -29,9 +29,8 @@ I talk to machines for a living—yes, literally. I tell AI my wildest project i
 
 <h3>Let’s team up:</h3>
 **Let's team up:**  
-💌 **[Email](mailto:harinianandanrao21@gmail.com)**  
-🕴️ **[LinkedIn](https://www.linkedin.com/in/harini-anandan-rao-a83134261)**  
-🌐 **[Portfolio](https://harinianandan14.github.io/harinianandan-portfolio/)**
-
+<a href="mailto:harinianandanrao21@gmail.com">📧 Email</a> | 
+<a href="https://www.linkedin.com/in/harini-anandan-rao-a83134261">💼 LinkedIn</a> | 
+<a href="https://harinianandan14.github.io/harinianandan-portfolio/">🌐 Portfolio</a>
 
 Ready to turn your AI curiosity into reality? Connect and let’s build something brainy! 🚀
