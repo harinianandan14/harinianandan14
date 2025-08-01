@@ -21,7 +21,7 @@
 - AWS & IBM Generative AI, Prompt Engineering
 
 ## 📫 Contact
-- [Email](mailto:harinianandanrao21@gmail.com) | [LinkedIn](https://www.linkedin.com/in/harini-anandan-rao-a83134261) | [Portfolio](put your link here)
+- [Email](mailto:harinianandanrao21@gmail.com) | [LinkedIn](https://www.linkedin.com/in/harini-anandan-rao-a83134261) | [Portfolio](https://harinianandan14.github.io/harinianandan-portfolio/)
 
 ---
 
