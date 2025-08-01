@@ -28,9 +28,9 @@ I talk to machines for a living—yes, literally. I tell AI my wildest project i
 🔮 Future goal: Make AI so easy, even your coffee machine could use it.
 
 <h3>Let’s team up:</h3>
-💌 [Email](mailto:harinianandanrao21@gmail.com)  
-🕴️ [LinkedIn](https://www.linkedin.com/in/harini-anandan-rao-a83134261)  
-🌐 [Portfolio](https://harinianandan14.github.io/harinianandan-portfolio/)
+💌 [Email] (mailto:harinianandanrao21@gmail.com)  
+🕴️ [LinkedIn] (https://www.linkedin.com/in/harini-anandan-rao-a83134261)  
+🌐 [Portfolio] (https://harinianandan14.github.io/harinianandan-portfolio/)
 
 
 Ready to turn your AI curiosity into reality? Connect and let’s build something brainy! 🚀
