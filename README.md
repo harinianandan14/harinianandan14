@@ -1,4 +1,4 @@
-Hi, I’m Harini Anandan 👩💻
+<h1>Hi, I’m Harini Anandan 👩💻</h1>
 AI Code Whisperer | LLM Explorer | Prompt Artist | Self-Taught Project Sorcerer 🪄
 
 I talk to machines for a living—yes, literally. I tell AI my wildest project ideas, and it helps me figure out the "how" (think: digital Yoda for nerds). 🗣️➡️🤖
