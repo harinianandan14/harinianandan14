@@ -6,18 +6,25 @@ I talk to machines for a living—yes, literally. I tell AI my wildest project i
 <h3>What I actually do:</h3>
 
 🔎 Pattern Detective: Spot patterns in brain data using AI (no mind-reading...yet).
+
 📚 LLM Sidekick: Build smart Q&A tools that actually understand your docs.
+
 📊 Prompt Scientist: Compare prompts like a data-obsessed taste-tester.
 
 <h3>Stack I juggle:</h3>
+
 🐍 Python | ☕ Java | 🔗 LangChain
 
 <h3>Certified (and still very curious):</h3>
+
 🏅 LangChain for LLM Dev (DeepLearningAI)
+
 🌩️ AWS & IBM GenAI (Prompt Engineering side quests)
 
 <h3>I learn by doing:</h3>
+
 📖 No teachers, just me, docs, and a never-ending playlist of tutorials.
+
 🔮 Future goal: Make AI so easy, even your coffee machine could use it.
 
 <h3>Let’s team up:</h3>
